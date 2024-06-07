@@ -9,6 +9,7 @@
 
 .text-welcome {
     display: inline-block;
+    font-weight: 300;
     }
 
 .profile {
